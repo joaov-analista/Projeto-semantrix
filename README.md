@@ -7,7 +7,7 @@ de Análise de Dados na EBAC.
  
 ## 🎬 Dashboard no Power BI
 ![Demonstração do Dashboard](20260602-1112-32.0262014.mp4)
-<video controls src="20260602-1112-32.0262014.mp4" title="Title"></video>
+
 ---
  
 # 📝 Dissertação sobre o problema
