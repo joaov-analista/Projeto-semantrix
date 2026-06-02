@@ -1,7 +1,7 @@
 Este README é um resumo do projeto de análise de despesas do governo brasileiro, desenvolvido durante o curso 
 de Análise de dados na EBAC.
 
-#Video do dashboard feito no Power BI.#
+Video do dashboard feito no Power BI.
 <video controls src="20260602-1112-32.0262014.mp4" title="Title"></video>
 
 
